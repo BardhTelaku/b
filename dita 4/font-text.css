@@ -1,0 +1,46 @@
+#p1 {
+    font-family: "Noto Serif Telugu", serif;
+    font-style: italic;
+}
+#p2 {
+    font-variant: small-caps;
+}
+#p3 {
+    font-weight: bold;
+}
+#p4 {
+    font-size: 4vw;
+}
+#p5 {
+    font: bold italic small-caps 10vw georgian;
+    width: 150px;
+}
+#p6 {
+        font-family: "Anton", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+#p7 {
+    font-family: "Dancing Script", cursive;
+}
+#p8 {
+    color: aqua;
+    direction: rtl;
+}
+#p9 {
+    text-indent: 20px;
+}
+#p10 {
+    letter-spacing: 4px;
+    word-spacing: 15px;
+}
+#p11 {
+    text-decoration: underline;
+}
+#p12 {
+    text-transform: capitalize;
+}
+#p13 {
+    font-size: 120px;
+    text-shadow: 5px 4px 6px blueviolet;
+}
