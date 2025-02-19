@@ -1,0 +1,24 @@
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: red;
+    font-size: 25px;
+    background-color: aqua;
+}
+
+a:active {
+    color: yellow;
+}
+
+#a1:link {
+    color: red;
+}
+#a1:hover {
+    text-transform: underline;
+}
