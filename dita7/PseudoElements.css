@@ -1,0 +1,20 @@
+#p1::before {
+    content: "bardh - ";
+    color: red;
+}
+#p2::after {
+    content: "- telaku";
+    color: red;
+}
+#p3::first-line {
+    color: red;
+    font-variant: small-caps;
+}
+#p4::first-letter {
+    color: green;
+    font-size: 30px;
+}
+p::selection {
+    color: white;
+    background-color: black;
+}
