@@ -1,0 +1,36 @@
+#div1 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+}
+#div2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    clear: both;
+}
+
+#d1 {
+    width: 800px;
+    height: 460px;
+    border: 1px solid black;
+    
+}
+#f1{
+    width: auto;
+    height:auto;  
+    float: left;
+}
+
+#d2 {
+    width: 800px;
+    height: 460px;
+    border: 1px solid black;
+    
+}
+#f2{
+    width: auto;
+    height:auto;  
+    float: right;
+}
